@@ -5,11 +5,11 @@ La profesora Ana requiere un aplicativo para incentivar en sus estudiantes el gu
 en particular se requiere un programa denominado: Monstruo come sumas
 
 <strong>Instrucciones:</strong>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; El juego está pensado para dos jugadores un turno para cada uno. 
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Existe un único tablero de 8 columnas y 10 filas con números aleatorios de 1 a 50 en sumas de dos operadores en cada posición del recorrido del tablero (no todas las posiciones de la tabla están utilizadas, ver ejemplo más adelante) . Adicional el tablero contará con 12 monstruos 
+<br>➣ El juego está pensado para dos jugadores un turno para cada uno. 
+<br>➣ Existe un único tablero de 8 columnas y 10 filas con números aleatorios de 1 a 50 en sumas de dos operadores en cada posición del recorrido del tablero (no todas las posiciones de la tabla están utilizadas, ver ejemplo más adelante) . Adicional el tablero contará con 12 monstruos 
 distribuidos por el tablero. 
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; En cada turno, el jugador debe lanzar un dado típico de valores entre 1 y 6, que indicará la 
+<br>➣ En cada turno, el jugador debe lanzar un dado típico de valores entre 1 y 6, que indicará la 
 cantidad de posiciones que debe moverse.
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; En el caso de caer en un MOUNSTRO, debe moverse al MOUNSTRO inmediatamente anterior.
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; En el caso de caer en una celda con operación, debe realizarla. En el caso de no realizar bien operación donde cae, también debe devolverse al MOUNSTRO inmediatamente anterior.
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gana el jugador que primero llegue a la META
+<br>➣ En el caso de caer en un MOUNSTRO, debe moverse al MOUNSTRO inmediatamente anterior.
+<br>➣ En el caso de caer en una celda con operación, debe realizarla. En el caso de no realizar bien operación donde cae, también debe devolverse al MOUNSTRO inmediatamente anterior.
+<br>➣ Gana el jugador que primero llegue a la META
